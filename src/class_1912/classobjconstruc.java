@@ -39,6 +39,7 @@ public class classobjconstruc {
 		
 		System.out.println("The Value of X :"+gs.getX());
 		System.out.println("The Value of Y :"+gs.getY());
+		System.gc();
 	}
 
 }
