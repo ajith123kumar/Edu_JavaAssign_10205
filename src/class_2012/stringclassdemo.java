@@ -61,8 +61,8 @@ public class stringclassdemo {
 		float f = 9.8f;
 		s3=String.format("Value of i = %d Value of f = %f",i,f);
 		System.out.println(s3);
-		String s4="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";
-		System.out.println(s4);
+//		String s4="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";
+//		System.out.println(s4);
 	}
 
 }
